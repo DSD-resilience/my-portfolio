@@ -1,2 +1,2 @@
 # my-portfolio
-Projects that show what I do.
+Projects that show how I help people build and understand data models.
